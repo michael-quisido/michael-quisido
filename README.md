@@ -9,7 +9,7 @@ michael-quisido/michael-quisido is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 ## Technologies
-<img width="50" height="50" alt="git-repository" src="https://github.com/user-attachments/assets/8a45c44d-56b3-4972-b73a-5578a3a5767b" /> Git Repo <br>
+<img width="25" height="25" alt="git-repository" src="https://github.com/user-attachments/assets/8a45c44d-56b3-4972-b73a-5578a3a5767b" /> Git Repo <br>
 <img width="50" height="50" alt="NextJS-logo" src="https://github.com/user-attachments/assets/e2f02ca0-19ea-4f0d-8293-8e408151629f" /> NextJS <br>
 <img width="50" height="50" alt="React-logo" src="https://github.com/user-attachments/assets/ce5e32ea-4aae-4dd9-afeb-16c7205695d9" /> React <br>
 <img width="50" height="50" alt="GraphQL" src="https://github.com/user-attachments/assets/a65c7944-56f2-4cd1-8a56-55c998347575" /> GraphQL <br>
