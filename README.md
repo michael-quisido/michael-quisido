@@ -24,8 +24,28 @@ You can click the Preview link to take a look at your changes.
 <img width="25" height="25" alt="supabse-db-api" src="https://github.com/user-attachments/assets/123e8f51-d1dc-4fd0-845b-ed1c6815c0c1" /> 
 <img width="25" height="25" alt="Typescript-logo" src="https://github.com/user-attachments/assets/e27b8175-d5f7-4196-af4b-e7e048ee4eda" /> 
 <img width="25" height="25" alt="vercel-logo" src="https://github.com/user-attachments/assets/995c9906-c128-4655-a7bb-64ccb51b560a" /> <br>
-Python Git Repo NextJS NodeJS React GraphQL Lua PHP CSS <br> Javascript MySQL Solidity Supabase TypeScript Vercel
+Python Git Repo NextJS NodeJS React GraphQL Lua PHP CSS <br> Javascript MySQL Solidity Supabase TypeScript Vercel <br><br>
 
+<img src="path/to/graph.png" alt="My graph" /><br><br>
 
+```mermaid
+graph TD
+  A[Start] --> B{Is it valid?}
+  B -->|Yes| C[Do work]
+  B -->|No| D[Fix input]
+  C --> E[Done]
+  D --> E
+<br><br>
 
+For charts (like bar/line pie), Mermaid support varies by GitHub version/type—if Mermaid charting doesn’t render, use options 2 or 3.
+
+## 2) Embed an image (simplest + always works)
+Generate a chart yourself (or export from a tool), then add it as an image:
+
+```md
+![My graph](path/to/graph.png)
+
+<br><br>
+
+![Chart](https://example.com/chart.png)
 
