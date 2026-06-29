@@ -27,25 +27,3 @@ You can click the Preview link to take a look at your changes.
 Python Git Repo NextJS NodeJS React GraphQL Lua PHP CSS <br> Javascript MySQL Solidity Supabase TypeScript Vercel <br><br>
 
 <img src="path/to/graph.png" alt="My graph" /><br><br>
-
-
-graph TD
-  A[Start] --> B{Is it valid?}
-  B -->|Yes| C[Do work]
-  B -->|No| D[Fix input]
-  C --> E[Done]
-  D --> E
-<br><br>
-
-For charts (like bar/line pie), Mermaid support varies by GitHub version/type—if Mermaid charting doesn’t render, use options 2 or 3.
-
-## 2) Embed an image (simplest + always works)
-Generate a chart yourself (or export from a tool), then add it as an image:
-
-
-![My graph](path/to/graph.png)
-
-<br><br>
-
-![Chart](https://example.com/chart.png)
-
