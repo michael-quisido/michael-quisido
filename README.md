@@ -28,7 +28,7 @@ Python Git Repo NextJS NodeJS React GraphQL Lua PHP CSS <br> Javascript MySQL So
 
 <img src="path/to/graph.png" alt="My graph" /><br><br>
 
-```mermaid
+
 graph TD
   A[Start] --> B{Is it valid?}
   B -->|Yes| C[Do work]
@@ -42,7 +42,7 @@ For charts (like bar/line pie), Mermaid support varies by GitHub version/type—
 ## 2) Embed an image (simplest + always works)
 Generate a chart yourself (or export from a tool), then add it as an image:
 
-```md
+
 ![My graph](path/to/graph.png)
 
 <br><br>
