@@ -19,9 +19,7 @@ You can click the Preview link to take a look at your changes.
 <img width="25" height="25" alt="supabse-db-api" src="https://github.com/user-attachments/assets/123e8f51-d1dc-4fd0-845b-ed1c6815c0c1" /> Supabase 
 <img width="25" height="25" alt="Typescript-logo" src="https://github.com/user-attachments/assets/e27b8175-d5f7-4196-af4b-e7e048ee4eda" /> TypeScript 
 <img width="25" height="25" alt="vercel-logo" src="https://github.com/user-attachments/assets/995c9906-c128-4655-a7bb-64ccb51b560a" /> Vercel
-## My Stat<img width="495" height="195" alt="68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d7468656f696e74656368" src="https://github.com/user-attachments/assets/d27c6e35-8d0c-47e3-9ff1-2902d75dc914" />
-
-
+## My Stat
 <svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'
                 style='isolation: isolate' viewBox='0 0 495 195' width='495px' height='195px' direction='ltr'>
         <style>
@@ -133,7 +131,6 @@ You can click the Preview link to take a look at your changes.
             
         </g>
     </svg>
-
 
 
 
