@@ -9,16 +9,16 @@ michael-quisido/michael-quisido is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 ## Technologies
-<img width="25" height="25" alt="git-repository" src="https://github.com/user-attachments/assets/8a45c44d-56b3-4972-b73a-5578a3a5767b" /> Git Repo <br>
-<img width="50" height="50" alt="NextJS-logo" src="https://github.com/user-attachments/assets/e2f02ca0-19ea-4f0d-8293-8e408151629f" /> NextJS <br>
-<img width="50" height="50" alt="React-logo" src="https://github.com/user-attachments/assets/ce5e32ea-4aae-4dd9-afeb-16c7205695d9" /> React <br>
-<img width="50" height="50" alt="GraphQL" src="https://github.com/user-attachments/assets/a65c7944-56f2-4cd1-8a56-55c998347575" /> GraphQL <br>
-<img width="50" height="50" alt="Lua-logo" src="https://github.com/user-attachments/assets/ad2ee7e6-4746-445d-9027-b6fb7b0b76b4" /> Lua <br>
-<img width="50" height="50" alt="MySQL-logo" src="https://github.com/user-attachments/assets/1425da90-8695-4109-8786-3dcb18a4daa6" /> MySQL <br>
-<img width="50" height="50" alt="Solidity-eth-blockchain" src="https://github.com/user-attachments/assets/1c840cac-5648-45f4-b990-e2077a82d9a7" /> Solidity <br>
-<img width="50" height="50" alt="supabse-db-api" src="https://github.com/user-attachments/assets/123e8f51-d1dc-4fd0-845b-ed1c6815c0c1" /> Supabase <br>
-<img width="50" height="50" alt="Typescript-logo" src="https://github.com/user-attachments/assets/e27b8175-d5f7-4196-af4b-e7e048ee4eda" /> TypeScript <br>
-<img width="50" height="50" alt="vercel-logo" src="https://github.com/user-attachments/assets/995c9906-c128-4655-a7bb-64ccb51b560a" /> Vercel
+<img width="25" height="25" alt="git-repository" src="https://github.com/user-attachments/assets/8a45c44d-56b3-4972-b73a-5578a3a5767b" /> Git Repo 
+<img width="25" height="25" alt="NextJS-logo" src="https://github.com/user-attachments/assets/e2f02ca0-19ea-4f0d-8293-8e408151629f" /> NextJS 
+<img width="25" height="25" alt="React-logo" src="https://github.com/user-attachments/assets/ce5e32ea-4aae-4dd9-afeb-16c7205695d9" /> React 
+<img width="25" height="25" alt="GraphQL" src="https://github.com/user-attachments/assets/a65c7944-56f2-4cd1-8a56-55c998347575" /> GraphQL 
+<img width="25" height="25" alt="Lua-logo" src="https://github.com/user-attachments/assets/ad2ee7e6-4746-445d-9027-b6fb7b0b76b4" /> Lua 
+<img width="25" height="25" alt="MySQL-logo" src="https://github.com/user-attachments/assets/1425da90-8695-4109-8786-3dcb18a4daa6" /> MySQL 
+<img width="25" height="25" alt="Solidity-eth-blockchain" src="https://github.com/user-attachments/assets/1c840cac-5648-45f4-b990-e2077a82d9a7" /> Solidity 
+<img width="25" height="25" alt="supabse-db-api" src="https://github.com/user-attachments/assets/123e8f51-d1dc-4fd0-845b-ed1c6815c0c1" /> Supabase 
+<img width="25" height="25" alt="Typescript-logo" src="https://github.com/user-attachments/assets/e27b8175-d5f7-4196-af4b-e7e048ee4eda" /> TypeScript 
+<img width="25" height="25" alt="vercel-logo" src="https://github.com/user-attachments/assets/995c9906-c128-4655-a7bb-64ccb51b560a" /> Vercel
 
 
 
