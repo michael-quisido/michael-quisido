@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <img width="25" height="25" alt="Lua-logo" src="https://github.com/user-attachments/assets/ad2ee7e6-4746-445d-9027-b6fb7b0b76b4" /> Lua <br> <br>
 <img width="25" height="25" alt="php-logo" src="https://github.com/user-attachments/assets/a39882d9-67c4-4951-93aa-6441abe340ea" /> PHP
 <img width="25" height="25" alt="css-logo" src="https://github.com/user-attachments/assets/24b6ef65-8e2b-4855-8288-2d6d49fb7352" /> CSS
-<img width="100" height="100" alt="javascript-logo" src="https://github.com/user-attachments/assets/2df3b7e2-cd92-44b6-a4f5-1a9bb63e65cb" /> Javascript
+<img width="25" height="25" alt="javascript-logo" src="https://github.com/user-attachments/assets/2df3b7e2-cd92-44b6-a4f5-1a9bb63e65cb" /> Javascript
 <img width="25" height="25" alt="MySQL-logo" src="https://github.com/user-attachments/assets/1425da90-8695-4109-8786-3dcb18a4daa6" /> MySQL 
 <img width="25" height="25" alt="Solidity-eth-blockchain" src="https://github.com/user-attachments/assets/1c840cac-5648-45f4-b990-e2077a82d9a7" /> Solidity 
 <img width="25" height="25" alt="supabse-db-api" src="https://github.com/user-attachments/assets/123e8f51-d1dc-4fd0-845b-ed1c6815c0c1" /> Supabase 
