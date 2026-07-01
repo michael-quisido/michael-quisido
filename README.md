@@ -25,9 +25,5 @@ You can click the Preview link to take a look at your changes.
 <img width="25" height="25" alt="Typescript-logo" src="https://github.com/user-attachments/assets/e27b8175-d5f7-4196-af4b-e7e048ee4eda" /> 
 <img width="25" height="25" alt="vercel-logo" src="https://github.com/user-attachments/assets/995c9906-c128-4655-a7bb-64ccb51b560a" /> <br>
 [Python] [Git Repo] [NextJS] [NodeJS] [React] [GraphQL] [Lua] [PHP] [CSS] <br> [Javascript] [MySQL] [Solidity] [Supabase] [TypeScript] [Vercel] <br><br>
-
-
 👀
-
-
-<img width="500" height="600" alt="linux-penguin" src="https://github.com/user-attachments/assets/92521dbf-44b4-43d7-903c-d04d22601592" />
+<img width="83" height="100" alt="linux-penguin" src="https://github.com/user-attachments/assets/92521dbf-44b4-43d7-903c-d04d22601592" />
