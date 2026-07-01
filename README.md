@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @michael-quisido
-- 👀 I’m interested in web app development in linux server....
+- <img width="17" height="20" alt="linux-penguin" src="https://github.com/user-attachments/assets/92521dbf-44b4-43d7-903c-d04d22601592" /> I’m interested in web app development in linux server....
 - 🌱 I’m currently working on a Next.js project in a Python environment.....
 - 💞️ I'm currently in collaboration mode and enjoying it so far...
 - 📫 You can reach me via email mike082112@gmail.com, mike.quisido@kmcq-gmbh.com or IRC libera channel mIk3_08 @irc.libera.chat...
 
-<!---
+<!---👀
 michael-quisido/michael-quisido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
@@ -25,3 +25,9 @@ You can click the Preview link to take a look at your changes.
 <img width="25" height="25" alt="Typescript-logo" src="https://github.com/user-attachments/assets/e27b8175-d5f7-4196-af4b-e7e048ee4eda" /> 
 <img width="25" height="25" alt="vercel-logo" src="https://github.com/user-attachments/assets/995c9906-c128-4655-a7bb-64ccb51b560a" /> <br>
 [Python] [Git Repo] [NextJS] [NodeJS] [React] [GraphQL] [Lua] [PHP] [CSS] <br> [Javascript] [MySQL] [Solidity] [Supabase] [TypeScript] [Vercel] <br><br>
+
+
+👀
+
+
+<img width="500" height="600" alt="linux-penguin" src="https://github.com/user-attachments/assets/92521dbf-44b4-43d7-903c-d04d22601592" />
