@@ -13,8 +13,9 @@ You can click the Preview link to take a look at your changes.
 <img width="25" height="25" alt="git-repository" src="https://github.com/user-attachments/assets/8a45c44d-56b3-4972-b73a-5578a3a5767b" /> 
 <img width="25" height="25" alt="NextJS-logo" src="https://github.com/user-attachments/assets/e2f02ca0-19ea-4f0d-8293-8e408151629f" /> 
 <img width="25" height="25" alt="node-logo" src="https://github.com/user-attachments/assets/d2606623-2822-40ea-8adb-3d79fe3a7c74" /> 
-<img width="25" height="25" alt="React-logo" src="https://github.com/user-attachments/assets/ce5e32ea-4aae-4dd9-afeb-16c7205695d9" /> 
-<img width="25" height="25" alt="GraphQL" src="https://github.com/user-attachments/assets/a65c7944-56f2-4cd1-8a56-55c998347575" /> 
+<img width="25" height="25" alt="React-logo" src="https://github.com/user-attachments/assets/ce5e32ea-4aae-4dd9-afeb-16c7205695d9" />
+<img width="25" height="25" alt="REST_API" src="https://github.com/user-attachments/assets/b04f23a6-5d55-4c66-9b74-dcaba740a144" />
+<img width="25" height="25" alt="GraphQL" src="https://github.com/user-attachments/assets/a65c7944-56f2-4cd1-8a56-55c998347575" />
 <img width="25" height="25" alt="Lua-logo" src="https://github.com/user-attachments/assets/ad2ee7e6-4746-445d-9027-b6fb7b0b76b4" />  
 <img width="25" height="25" alt="php-logo" src="https://github.com/user-attachments/assets/a39882d9-67c4-4951-93aa-6441abe340ea" /> 
 <img width="25" height="25" alt="css-logo" src="https://github.com/user-attachments/assets/24b6ef65-8e2b-4855-8288-2d6d49fb7352" /> 
