@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 <img width="25" height="25" alt="React-logo" src="https://github.com/user-attachments/assets/ce5e32ea-4aae-4dd9-afeb-16c7205695d9" />
 <img width="25" height="25" alt="REST_API" src="https://github.com/user-attachments/assets/b04f23a6-5d55-4c66-9b74-dcaba740a144" />
 <img width="25" height="25" alt="GraphQL" src="https://github.com/user-attachments/assets/a65c7944-56f2-4cd1-8a56-55c998347575" />
+<img width="56" height="25" alt="JWT_Logo_edited" src="https://github.com/user-attachments/assets/420e598f-c59c-407a-b730-3cfa8d5d779b" />
 <img width="25" height="25" alt="Lua-logo" src="https://github.com/user-attachments/assets/ad2ee7e6-4746-445d-9027-b6fb7b0b76b4" />  
 <img width="25" height="25" alt="php-logo" src="https://github.com/user-attachments/assets/a39882d9-67c4-4951-93aa-6441abe340ea" /> 
 <img width="25" height="25" alt="css-logo" src="https://github.com/user-attachments/assets/24b6ef65-8e2b-4855-8288-2d6d49fb7352" /> 
@@ -25,6 +26,6 @@ You can click the Preview link to take a look at your changes.
 <img width="25" height="25" alt="supabse-db-api" src="https://github.com/user-attachments/assets/123e8f51-d1dc-4fd0-845b-ed1c6815c0c1" /> 
 <img width="25" height="25" alt="Typescript-logo" src="https://github.com/user-attachments/assets/e27b8175-d5f7-4196-af4b-e7e048ee4eda" /> 
 <img width="25" height="25" alt="vercel-logo" src="https://github.com/user-attachments/assets/995c9906-c128-4655-a7bb-64ccb51b560a" /> <br>
-[Python] [Git Repo] [NextJS] [NodeJS] [React] [REST API] [GraphQL] [Lua] [PHP] [CSS] <br> [Javascript] [MySQL] [Solidity] [Supabase] [TypeScript] [Vercel] <br><br>
+[Python] [Git Repo] [NextJS] [NodeJS] [React] [REST API] [GraphQL] [JWT] [Lua] [PHP] [CSS] <br> [Javascript] [MySQL] [Solidity] [Supabase] [TypeScript] [Vercel] <br><br>
 <img width="83" height="100" alt="linux-penguin" src="https://github.com/user-attachments/assets/92521dbf-44b4-43d7-903c-d04d22601592" />
 <img width="160" height="100" alt="GNU-Logo-500x313" src="https://github.com/user-attachments/assets/d0ba6b70-be1e-46f0-be89-0ca4c34ea6db" />
