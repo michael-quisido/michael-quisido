@@ -39,17 +39,4 @@ You can click the Preview link to take a look at your changes.
 <img width="50" height="50" alt="rocky-linux-hd-logo" src="https://github.com/user-attachments/assets/5eb72499-4815-43a7-96c1-1f07b752b8f4" />
 <img width="50" height="50" alt="almaos" src="https://github.com/user-attachments/assets/3e4f3d7f-42a8-428c-b126-3e443dafe3da" />
 <img width="50" height="50" alt="freebsdwhitebg" src="https://github.com/user-attachments/assets/3471ba3a-548a-4728-bb16-4265097ad2da" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="66" height="50" alt="redhat" src="https://github.com/user-attachments/assets/73ee5c14-dc7b-4279-9660-2fec522da959" />
