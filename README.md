@@ -29,8 +29,9 @@ You can click the Preview link to take a look at your changes.
 [Python] [Git Repo] [NextJS] [NodeJS] [React] [REST API] [GraphQL] [JWT] [Lua] <br> [PHP] [CSS] [Javascript] [MySQL] [Solidity] [Supabase] [TypeScript] [Vercel] <br><br>
 <img width="83" height="100" alt="linux-penguin" src="https://github.com/user-attachments/assets/92521dbf-44b4-43d7-903c-d04d22601592" />
 <img width="160" height="100" alt="GNU-Logo-500x313" src="https://github.com/user-attachments/assets/d0ba6b70-be1e-46f0-be89-0ca4c34ea6db" /> <br>
+
 ## Linux Drivers I usually use. 
-## Technologies I commonly use.
+
 
 
 <br><img width="50" height="52" alt="Debian" src="https://github.com/user-attachments/assets/85aae560-66a8-44fb-b256-f3732d04c0cb" />
