@@ -37,4 +37,19 @@ You can click the Preview link to take a look at your changes.
 <img width="55" height="55" alt="centos" src="https://github.com/user-attachments/assets/78ab8b8b-e085-483d-8342-1bc848e10a13" />
 <img width="50" height="50" alt="rocky-linux-hd-logo" src="https://github.com/user-attachments/assets/5eb72499-4815-43a7-96c1-1f07b752b8f4" />
 <img width="50" height="50" alt="almaos" src="https://github.com/user-attachments/assets/3e4f3d7f-42a8-428c-b126-3e443dafe3da" />
-<img width="67" height="50" alt="kali" src="https://github.com/user-attachments/assets/d46b97d0-94a5-446a-8873-a0cb1296185a" />
+<img width="67" height="50" alt="kali" src="https://github.com/user-attachments/assets/60017559-5ecb-42e8-9d1c-5716f1b8e143" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
