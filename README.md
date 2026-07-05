@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 ## Linux Drivers I usually use. 
 <img width="50" height="52" alt="Debian" src="https://github.com/user-attachments/assets/85aae560-66a8-44fb-b256-f3732d04c0cb" />
 <img width="50" height="50" alt="ubuntu" src="https://github.com/user-attachments/assets/d27a6684-7e73-4524-a8cf-13e5e738c1d5" />
-<img width="52" height="52" alt="centos" src="https://github.com/user-attachments/assets/78ab8b8b-e085-483d-8342-1bc848e10a13" />
+<img width="55" height="55" alt="centos" src="https://github.com/user-attachments/assets/78ab8b8b-e085-483d-8342-1bc848e10a13" />
 <img width="50" height="50" alt="rocky-linux-hd-logo" src="https://github.com/user-attachments/assets/5eb72499-4815-43a7-96c1-1f07b752b8f4" />
 <img width="50" height="50" alt="almaos" src="https://github.com/user-attachments/assets/3e4f3d7f-42a8-428c-b126-3e443dafe3da" />
 
