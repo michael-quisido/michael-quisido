@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Technologies I commonly use.
-<img width="25" height="25" alt="python-logo" src="https://github.com/user-attachments/assets/9b55e1ed-02e6-4296-b598-a29d5cc22cde" /> 
+
 <img width="25" height="25" alt="git-repository" src="https://github.com/user-attachments/assets/8a45c44d-56b3-4972-b73a-5578a3a5767b" /> 
 <img width="25" height="25" alt="NextJS-logo" src="https://github.com/user-attachments/assets/e2f02ca0-19ea-4f0d-8293-8e408151629f" /> 
 <img width="25" height="25" alt="node-logo" src="https://github.com/user-attachments/assets/d2606623-2822-40ea-8adb-3d79fe3a7c74" /> 
