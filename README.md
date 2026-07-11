@@ -43,5 +43,5 @@ You can click the Preview link to take a look at your changes.
 <img width="50" height="50" alt="rocky-linux-hd-logo" src="https://github.com/user-attachments/assets/5eb72499-4815-43a7-96c1-1f07b752b8f4" />
 <img width="50" height="50" alt="almaos" src="https://github.com/user-attachments/assets/3e4f3d7f-42a8-428c-b126-3e443dafe3da" />
 <img width="50" height="50" alt="freebsdwhitebg" src="https://github.com/user-attachments/assets/3471ba3a-548a-4728-bb16-4265097ad2da" /> <br>
-https://readme-svg-typing-generator.vercel.app/api?lines=Hello%2C%20GitHub!;Welcome%20to%20my%20profile&animation=typing&color=36BCF7&background=00000000&size=22&font=monospace&duration=5000&pause=1000&width=435&height=50&letterSpacing=normal&center=false&vCenter=false&multiline=false&repeat=true&random=false
+
 
