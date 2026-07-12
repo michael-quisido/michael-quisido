@@ -44,4 +44,3 @@ You can click the Preview link to take a look at your changes.
 <img width="50" height="50" alt="almaos" src="https://github.com/user-attachments/assets/3e4f3d7f-42a8-428c-b126-3e443dafe3da" />
 <img width="45" height="50" alt="freebsd_facing_right" src="https://github.com/user-attachments/assets/8e56a1d8-e6e2-42a5-8eba-a3c3cdd21d65" /><br><br>
 <img width="400" height="200" alt="github-stats-account-general" src="https://github.com/user-attachments/assets/11caa42b-afd0-409f-b347-a298e684669e" /><br><br>
-<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
