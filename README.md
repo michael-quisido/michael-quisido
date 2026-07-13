@@ -44,8 +44,4 @@ You can click the Preview link to take a look at your changes.
 <img width="50" height="50" alt="almaos" src="https://github.com/user-attachments/assets/3e4f3d7f-42a8-428c-b126-3e443dafe3da" />
 <img width="45" height="50" alt="freebsd_facing_right" src="https://github.com/user-attachments/assets/8e56a1d8-e6e2-42a5-8eba-a3c3cdd21d65" /><br><br>
 <img width="400" height="200" alt="github-stats-account-general" src="https://github.com/user-attachments/assets/11caa42b-afd0-409f-b347-a298e684669e" /><br><br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
