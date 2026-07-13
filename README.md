@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 <img width="50" height="50" alt="rocky-linux-hd-logo" src="https://github.com/user-attachments/assets/5eb72499-4815-43a7-96c1-1f07b752b8f4" />
 <img width="50" height="50" alt="almaos" src="https://github.com/user-attachments/assets/3e4f3d7f-42a8-428c-b126-3e443dafe3da" />
 <img width="45" height="50" alt="freebsd_facing_right" src="https://github.com/user-attachments/assets/8e56a1d8-e6e2-42a5-8eba-a3c3cdd21d65" /><br><br>
-<img width="400" height="200" alt="github-stats-account-general" src="https://github.com/user-attachments/assets/11caa42b-afd0-409f-b347-a298e684669e" /><br><br>
+<img width="400" height="200" alt="github-stats-account-general" src="https://github.com/user-attachments/assets/11caa42b-afd0-409f-b347-a298e684669e" /><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
