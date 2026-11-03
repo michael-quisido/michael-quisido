@@ -1,4 +1,4 @@
-- <img width="20" height="20" alt="waving-hand" src="https://github.com/user-attachments/assets/eaa1ed37-2d68-418d-90f6-bbebd6064161" /> Hi, I’m @michael-quisido
+<img width="150" height="150" alt="Rust Icon - Black - zonalogo com" src="https://github.com/user-attachments/assets/8b72d86a-6be6-4fb8-b97d-fa5bfa0bc6eb" />- <img width="20" height="20" alt="waving-hand" src="https://github.com/user-attachments/assets/eaa1ed37-2d68-418d-90f6-bbebd6064161" /> Hi, I’m @michael-quisido
 - <img width="17" height="20" alt="linux-penguin" src="https://github.com/user-attachments/assets/92521dbf-44b4-43d7-903c-d04d22601592" /> I’m interested in web app development in linux server....
 - 🌱 I’m currently working on a Next.js project in a Python environment.....
 - 💞️ I'm currently in collaboration mode and enjoying it so far...
@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Technologies I commonly use.
 <img width="25" height="25" alt="python-logo" src="https://github.com/user-attachments/assets/9b55e1ed-02e6-4296-b598-a29d5cc22cde" />
+<img width="25" height="25" alt="Rust Icon - Black" src="https://github.com/user-attachments/assets/8e980679-dd8e-4da6-a38a-8d8183e2974d" />
 <img width="25" height="25" alt="git-repository" src="https://github.com/user-attachments/assets/8a45c44d-56b3-4972-b73a-5578a3a5767b" /> 
 <img width="25" height="25" alt="NextJS-logo" src="https://github.com/user-attachments/assets/e2f02ca0-19ea-4f0d-8293-8e408151629f" /> 
 <img width="25" height="25" alt="node-logo" src="https://github.com/user-attachments/assets/d2606623-2822-40ea-8adb-3d79fe3a7c74" /> 
