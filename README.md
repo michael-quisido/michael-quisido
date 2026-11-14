@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 <img width="25" height="25" alt="NextJS-logo" src="https://github.com/user-attachments/assets/e2f02ca0-19ea-4f0d-8293-8e408151629f" /> 
 <img width="25" height="25" alt="node-logo" src="https://github.com/user-attachments/assets/d2606623-2822-40ea-8adb-3d79fe3a7c74" /> 
 <img width="25" height="25" alt="firebase_28dp" src="https://github.com/user-attachments/assets/5031337c-461f-41d1-aa76-f4d01c9b86d4" />
+<img width="25" height="25" alt="Expogo" src="https://github.com/user-attachments/assets/4aa2f6f5-9934-4bd1-a7f8-f09c041ec0ae" />
 <img width="25" height="25" alt="React-logo" src="https://github.com/user-attachments/assets/ce5e32ea-4aae-4dd9-afeb-16c7205695d9" />
 <img width="25" height="25" alt="REST_API" src="https://github.com/user-attachments/assets/b04f23a6-5d55-4c66-9b74-dcaba740a144" />
 <img width="25" height="25" alt="GraphQL" src="https://github.com/user-attachments/assets/a65c7944-56f2-4cd1-8a56-55c998347575" />
