@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 <img width="25" height="25" alt="git-repository" src="https://github.com/user-attachments/assets/8a45c44d-56b3-4972-b73a-5578a3a5767b" /> 
 <img width="25" height="25" alt="NextJS-logo" src="https://github.com/user-attachments/assets/e2f02ca0-19ea-4f0d-8293-8e408151629f" /> 
 <img width="25" height="25" alt="node-logo" src="https://github.com/user-attachments/assets/d2606623-2822-40ea-8adb-3d79fe3a7c74" /> 
+<img width="25" height="25" alt="Kotlin icon" src="https://github.com/user-attachments/assets/cdc367a7-ac70-486e-b48d-c199c38f923a" />
 <img width="25" height="25" alt="Expogo" src="https://github.com/user-attachments/assets/4aa2f6f5-9934-4bd1-a7f8-f09c041ec0ae" />
 <img width="25" height="25" alt="firebase_28dp" src="https://github.com/user-attachments/assets/5031337c-461f-41d1-aa76-f4d01c9b86d4" />
 <img width="25" height="25" alt="React-logo" src="https://github.com/user-attachments/assets/ce5e32ea-4aae-4dd9-afeb-16c7205695d9" />
